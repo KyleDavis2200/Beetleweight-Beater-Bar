@@ -46,6 +46,18 @@ I got the weapon design to this point, with a pocket for the motor and a guard a
 <img width="752" height="982" alt="image" src="https://github.com/user-attachments/assets/f4b5d279-af78-4f6d-bbd4-e920bad60bde" />
 The revised weapon came out mostly similar to the initial one, except I made it a bit thinner along its thickness and thickened up the weapon motor side severely. This will also keep the weapon motor very safe in combat.
 
+
+<img width="1122" height="912" alt="image" src="https://github.com/user-attachments/assets/7f431b30-36d6-4449-aa39-4b0493f1ec30" />
+The next part I designed was the front plate, which, for the most part, is a simple 1/8" thick rectangle of TPU that fills in the space between the bottom plate, uprights, and top plate in the front of the robot. It features a pocket for a hex standoff to sit in and it has geometry on the sides that corresponds to the pockets in the uprights, with a hole on either side for it to be mounted with a plastite screw.
+
+
+<img width="1266" height="1119" alt="image" src="https://github.com/user-attachments/assets/f87416df-9ed0-4d34-91d2-fc440855a86e" />
+The back plate features a similar design philosophy as the front plate, but it is much thicker as it can be directly hit by opponents. It also has two mounting holes on either side and a pocket for the head of the drive shaft screw to sit in.
+
+
+<img width="1240" height="881" alt="image" src="https://github.com/user-attachments/assets/21ce9a72-b03d-4421-9598-2d189860b5e2" />
+The wheelguard is a simple TPU rectangle that down the side of the robot to protect the wheels and drive belts. It mounts onto two hex standoffs in the middle and two round standoffs in the front where the forks are mounted. The TPU comes in at the front and covers the standguards to improve strength and prevent the standoffs from getting hit directly.
+
 11/26/2025
 
 12 Hours
