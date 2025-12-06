@@ -1,5 +1,7 @@
 # MicroNova
 MicroNova is a 3lb beetleweight combat robot with four wheel drive and an eggbeater style weapon. MicroNova's weapon is unique because it is an aluminum hubmotor eggbeater, which allows for the weapon to be very large while saving weight and space for the rest of the robot. I am aware that the price of this robot far exceeds the amount that I will get in the grant from HackClub Blueprint for it, but I plan to spend some of my own money to build it.
+
+
 <img width="1171" height="888" alt="image" src="https://github.com/user-attachments/assets/f00e3196-3e08-498b-be64-c84656d213f5" />
 
 ## Features
