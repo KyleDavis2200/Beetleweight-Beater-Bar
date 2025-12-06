@@ -23,7 +23,7 @@ MicroNova is a 3lb beetleweight combat robot with four wheel drive and an eggbea
 <img width="1413" height="1075" alt="image" src="https://github.com/user-attachments/assets/b0edcf65-80bf-459b-9ec3-c73ad04b115a" />
 
 ## Wiring Diagram
-
+![](https://github.com/KyleDavis2200/MicroNova/blob/main/Wiring%20Diagram-01.png)
 
 ## Background
 
