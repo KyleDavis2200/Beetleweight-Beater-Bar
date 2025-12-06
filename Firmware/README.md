@@ -4,6 +4,6 @@ The XR2 firmware is from Frank / Fuzzhao, and AM32 is made by AlkaMotors and the
 
 The repos they are from are linked below:
 
-https://github.com/frank26080115/Shrew-Dual-Brushed-ESC-with-ELRS/tree/master/docs/RM-XR2-PWM-Mod https://github.com/frank26080115/Hydra-Dual-Brushed-Motor-ESC/tree/master
+https://github.com/frank26080115/Shrew-Dual-Brushed-ESC-with-ELRS/tree/master/docs/RM-XR2-PWM-Mod
 
 https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware
